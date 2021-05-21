@@ -1,1 +1,4 @@
-Some file new
+# New Chapter ahead
+Now we type what we want
+Some new text 
+I am learning to make branches and update content using git
