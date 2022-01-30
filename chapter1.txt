@@ -1,2 +1,8 @@
 # Start everything
 New update for this txt file
+
+function a = () {
+    //Self destruction
+    //Very bad code writen here
+    //It will crash any PC
+}
